@@ -1,0 +1,6 @@
+invoice_no,customer_id,gender,age,category,quantity,price,payment_method,invoice_date,shopping_mall
+I202367,C317478,Female,41,Books,3,45.45,Credit Card,24/02/2023,Istinye Park
+I664787,C237330,Female,53,Cosmetics,2,81.32,Credit Card,12/1/2023,Istinye Park
+I160777,C626042,Female,43,Technology,4,4200,Cash,22/02/2022,Metrocity
+I137794,C133687,Female,45,Food & Beverage,3,15.69,Debit Card,12/3/2021,Viaport Outlet
+I148377,C841663,Female,29,Clothing,1,300.08,Cash,2/1/2022,Istinye Park

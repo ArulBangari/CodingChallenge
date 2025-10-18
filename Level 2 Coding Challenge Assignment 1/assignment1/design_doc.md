@@ -68,7 +68,9 @@ graph LR;
 - Test input: Create a small CSV with my own values
 - Expected output: Verify as per test data CSV
 - Edge cases:
-  - Empty file -> outputs "Warning dataframe is empty!"
+  - Empty dataframe -> outputs "Warning dataframe is empty!"
+  - There are multiple payment methods that are the most used (have same use)
+  - There are multiple days that have the most sales (have same sales)
 
 ### 6. Files/Folders
 
@@ -86,8 +88,8 @@ graph LR;
 
 3. Run the main file:
 
-- `python3 assignment1.py`, writes results to **output.txt**
+- `python3 assignment1.py`, results are printed to console
 
 4. Run the tests:
 
-- `python3 assignment1_tests.py`, logs to **log.txt**
+- `python3 assignment1_tests.py`

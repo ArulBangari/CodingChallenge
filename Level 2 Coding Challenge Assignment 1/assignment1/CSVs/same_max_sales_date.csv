@@ -1,0 +1,8 @@
+invoice_no,customer_id,gender,age,category,quantity,price,payment_method,invoice_date,shopping_mall
+I218590,C224743,Female,29,Cosmetics,4,10000.00,Debit Card,9/5/2022,Metropol AVM
+I181109,C119549,Male,22,Toys,4,10000.00,Cash,17/10/2022,Mall of Istanbul
+I221715,C187266,Female,63,Food & Beverage,4,10000.00,Cash,22/01/2022,Cevahir AVM
+I204979,C173084,Female,24,Souvenir,5,58.65,Debit Card,14/03/2021,Istinye Park
+I115146,C126956,Female,24,Cosmetics,5,203.3,Cash,27/04/2022,Metrocity
+I883721,C236859,Female,44,Technology,5,5250,Credit Card,19/11/2021,Mall of Istanbul
+I402376,C309926,Male,34,Shoes,5,3000.85,Cash,10/9/2022,Forum Istanbul
