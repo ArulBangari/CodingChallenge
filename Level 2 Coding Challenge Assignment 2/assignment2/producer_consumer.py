@@ -1,3 +1,12 @@
+"""
+Filename: assignment1.py
+Author: Arul Bangari
+Description:
+    This program has two classes, a Producer and Consumer.
+    - Producer: read numbers from the source container into the queue
+    - Consumer: dequeues from the queue and writes into the source container
+"""
+
 import threading
 import time
 import queue
