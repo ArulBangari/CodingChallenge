@@ -28,7 +28,7 @@ I138884,C241288,Female,28,Clothing,5,1500.4,Credit Card,5/8/2022,Kanyon
 
 **Assumptions**:
 
-- All columns will be in the form of above
+- All columns are present and will be in the above format
 - CSV will have content
 - Quantity and price are numeric
 - Date is in format of DD/MM/YYY
@@ -69,8 +69,8 @@ graph LR;
 - Expected output: Verify as per test data CSV
 - Edge cases:
   - Empty dataframe -> outputs "Warning dataframe is empty!"
-  - There are multiple payment methods that are the most used (have same use)
-  - There are multiple days that have the most sales (have same sales)
+  - There are multiple payment methods that are the most used (have same count)
+  - There are multiple days that have the most sales (have same amount)
 
 ### 6. Files/Folders
 

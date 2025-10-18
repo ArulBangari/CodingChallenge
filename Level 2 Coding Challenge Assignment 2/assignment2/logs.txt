@@ -1,0 +1,137 @@
+2025-10-18 11:12:34,065 - INFO - Thread-1 (produce) produced: 461
+2025-10-18 11:12:34,065 - INFO - Thread-2 (produce) produced: 677
+2025-10-18 11:12:34,066 - INFO - Thread-3 (produce) produced: 653.5687098964528
+2025-10-18 11:12:34,066 - INFO - Thread-4 (produce) produced: 673
+2025-10-18 11:12:34,066 - INFO - Thread-5 (produce) produced: 206
+2025-10-18 11:12:34,066 - INFO - Thread-6 (consume) consumed: 461
+2025-10-18 11:12:34,066 - INFO - Thread-7 (consume) consumed: 677
+2025-10-18 11:12:34,066 - INFO - Thread-8 (consume) consumed: 653.5687098964528
+2025-10-18 11:12:34,067 - INFO - Thread-9 (consume) consumed: 673
+2025-10-18 11:12:34,067 - INFO - Thread-10 (consume) consumed: 206
+2025-10-18 11:12:34,569 - INFO - Thread-1 (produce) produced: 452
+2025-10-18 11:12:34,570 - INFO - Thread-2 (produce) produced: 738
+2025-10-18 11:12:34,570 - INFO - Thread-3 (produce) produced: 361.8827455735576
+2025-10-18 11:12:34,570 - INFO - Thread-4 (produce) produced: 563.523171007215
+2025-10-18 11:12:34,570 - INFO - Thread-9 (consume) consumed: 452
+2025-10-18 11:12:34,570 - INFO - Thread-6 (consume) consumed: 738
+2025-10-18 11:12:34,571 - INFO - Thread-8 (consume) consumed: 361.8827455735576
+2025-10-18 11:12:34,571 - INFO - Thread-7 (consume) consumed: 563.523171007215
+2025-10-18 11:12:34,571 - INFO - Thread-5 (produce) produced: 282
+2025-10-18 11:12:34,571 - INFO - Thread-10 (consume) consumed: 282
+2025-10-18 11:12:35,072 - INFO - Thread-1 (produce) produced: 244.65639502842984
+2025-10-18 11:12:35,072 - INFO - Thread-2 (produce) produced: 639.152877239045
+2025-10-18 11:12:35,073 - INFO - Thread-5 (produce) produced: 901.2373726940251
+2025-10-18 11:12:35,073 - INFO - Thread-8 (consume) consumed: 244.65639502842984
+2025-10-18 11:12:35,073 - INFO - Thread-6 (consume) consumed: 639.152877239045
+2025-10-18 11:12:35,073 - INFO - Thread-3 (produce) produced: 856.5078172264846
+2025-10-18 11:12:35,073 - INFO - Thread-7 (consume) consumed: 901.2373726940251
+2025-10-18 11:12:35,073 - INFO - Thread-4 (produce) produced: 249.48061238182572
+2025-10-18 11:12:35,073 - INFO - Thread-10 (consume) consumed: 856.5078172264846
+2025-10-18 11:12:35,073 - INFO - Thread-9 (consume) consumed: 249.48061238182572
+2025-10-18 11:12:35,573 - INFO - Thread-1 (produce) produced: 119
+2025-10-18 11:12:35,573 - INFO - Thread-6 (consume) consumed: 119
+2025-10-18 11:12:35,574 - INFO - Thread-2 (produce) produced: 203.0222961733781
+2025-10-18 11:12:35,574 - INFO - Thread-7 (consume) consumed: 203.0222961733781
+2025-10-18 11:12:35,574 - INFO - Thread-5 (produce) produced: 579
+2025-10-18 11:12:35,574 - INFO - Thread-3 (produce) produced: 485
+2025-10-18 11:12:35,575 - INFO - Thread-4 (produce) produced: 863
+2025-10-18 11:12:35,575 - INFO - Thread-9 (consume) consumed: 579
+2025-10-18 11:12:35,575 - INFO - Thread-8 (consume) consumed: 485
+2025-10-18 11:12:35,575 - INFO - Thread-10 (consume) consumed: 863
+2025-10-18 11:13:11,964 - INFO - Thread-1 (produce) produced: 552.2815831736436
+2025-10-18 11:13:11,964 - INFO - Thread-2 (produce) produced: 445
+2025-10-18 11:13:11,965 - INFO - Thread-3 (produce) produced: 10.26031430532315
+2025-10-18 11:13:11,965 - INFO - Thread-5 (consume) consumed: 552.2815831736436
+2025-10-18 11:13:11,965 - INFO - Thread-4 (produce) produced: 481.4550384247641
+2025-10-18 11:13:11,965 - INFO - Thread-6 (consume) consumed: 445
+2025-10-18 11:13:11,965 - INFO - Thread-7 (consume) consumed: 10.26031430532315
+2025-10-18 11:13:11,965 - INFO - Thread-8 (consume) consumed: 481.4550384247641
+2025-10-18 11:13:12,469 - INFO - Thread-1 (produce) produced: 60
+2025-10-18 11:13:12,469 - INFO - Thread-6 (consume) consumed: 60
+2025-10-18 11:13:12,975 - INFO - Thread-9 (produce) produced: 834
+2025-10-18 11:13:12,976 - INFO - Thread-10 (produce) produced: 978
+2025-10-18 11:13:12,976 - INFO - Thread-11 (produce) produced: 957.9985647559789
+2025-10-18 11:13:12,976 - INFO - Thread-12 (produce) produced: 22
+2025-10-18 11:13:12,977 - INFO - Thread-13 (produce) produced: 87.74616750975794
+2025-10-18 11:13:12,977 - INFO - Thread-14 (consume) consumed: 834
+2025-10-18 11:13:13,477 - INFO - Thread-9 (produce) produced: 995
+2025-10-18 11:13:13,477 - INFO - Thread-10 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,477 - INFO - Thread-11 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,477 - INFO - Thread-12 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,478 - INFO - Thread-13 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,727 - INFO - Thread-14 (consume) consumed: 978
+2025-10-18 11:13:13,977 - INFO - Thread-9 (produce) produced: 936
+2025-10-18 11:13:13,977 - INFO - Thread-10 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,977 - INFO - Thread-11 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,979 - INFO - Thread-12 (produce) tried producing, buy queue is full
+2025-10-18 11:13:13,980 - INFO - Thread-13 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,480 - INFO - Thread-9 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,480 - INFO - Thread-10 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,481 - INFO - Thread-13 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,481 - INFO - Thread-14 (consume) consumed: 957.9985647559789
+2025-10-18 11:13:14,481 - INFO - Thread-12 (produce) produced: 816.7806683188311
+2025-10-18 11:13:14,481 - INFO - Thread-11 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,983 - INFO - Thread-9 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,984 - INFO - Thread-10 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,984 - INFO - Thread-11 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,984 - INFO - Thread-13 (produce) tried producing, buy queue is full
+2025-10-18 11:13:14,984 - INFO - Thread-12 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,233 - INFO - Thread-14 (consume) consumed: 22
+2025-10-18 11:13:15,487 - INFO - Thread-9 (produce) produced: 435
+2025-10-18 11:13:15,487 - INFO - Thread-11 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,487 - INFO - Thread-13 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,487 - INFO - Thread-10 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,487 - INFO - Thread-12 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,988 - INFO - Thread-9 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,988 - INFO - Thread-13 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,988 - INFO - Thread-10 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,988 - INFO - Thread-11 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,988 - INFO - Thread-12 (produce) tried producing, buy queue is full
+2025-10-18 11:13:15,989 - INFO - Thread-14 (consume) consumed: 87.74616750975794
+2025-10-18 11:13:16,493 - INFO - Thread-9 (produce) produced: 541
+2025-10-18 11:13:16,739 - INFO - Thread-14 (consume) consumed: 995
+2025-10-18 11:13:17,494 - INFO - Thread-14 (consume) consumed: 936
+2025-10-18 11:13:18,248 - INFO - Thread-14 (consume) consumed: 816.7806683188311
+2025-10-18 11:13:19,002 - INFO - Thread-14 (consume) consumed: 435
+2025-10-18 11:13:19,755 - INFO - Thread-14 (consume) consumed: 541
+2025-10-18 11:26:34,664 - INFO - Thread-1 (produce) produced: 559
+2025-10-18 11:26:34,665 - INFO - Thread-2 (produce) produced: 403
+2025-10-18 11:26:34,665 - INFO - Thread-3 (produce) produced: 839
+2025-10-18 11:26:34,665 - INFO - Thread-4 (produce) produced: 487.91512263627624
+2025-10-18 11:26:34,665 - INFO - Thread-5 (produce) produced: 646
+2025-10-18 11:26:34,665 - INFO - Thread-6 (consume) consumed: 559
+2025-10-18 11:26:34,665 - INFO - Thread-7 (consume) consumed: 403
+2025-10-18 11:26:34,665 - INFO - Thread-8 (consume) consumed: 839
+2025-10-18 11:26:34,665 - INFO - Thread-9 (consume) consumed: 487.91512263627624
+2025-10-18 11:26:34,666 - INFO - Thread-10 (consume) consumed: 646
+2025-10-18 11:26:35,167 - INFO - Thread-1 (produce) produced: 947
+2025-10-18 11:26:35,167 - INFO - Thread-2 (produce) produced: 103
+2025-10-18 11:26:35,168 - INFO - Thread-10 (consume) consumed: 947
+2025-10-18 11:26:35,168 - INFO - Thread-4 (produce) produced: 806
+2025-10-18 11:26:35,168 - INFO - Thread-8 (consume) consumed: 103
+2025-10-18 11:26:35,168 - INFO - Thread-5 (produce) produced: 687.1424347600004
+2025-10-18 11:26:35,169 - INFO - Thread-7 (consume) consumed: 806
+2025-10-18 11:26:35,169 - INFO - Thread-3 (produce) produced: 676
+2025-10-18 11:26:35,169 - INFO - Thread-6 (consume) consumed: 687.1424347600004
+2025-10-18 11:26:35,169 - INFO - Thread-9 (consume) consumed: 676
+2025-10-18 11:26:35,671 - INFO - Thread-2 (produce) produced: 653
+2025-10-18 11:26:35,671 - INFO - Thread-10 (consume) consumed: 653
+2025-10-18 11:26:35,671 - INFO - Thread-4 (produce) produced: 373.54158459305177
+2025-10-18 11:26:35,672 - INFO - Thread-7 (consume) consumed: 373.54158459305177
+2025-10-18 11:26:35,672 - INFO - Thread-3 (produce) produced: 292.70314476753543
+2025-10-18 11:26:35,672 - INFO - Thread-5 (produce) produced: 983.4461850224054
+2025-10-18 11:26:35,672 - INFO - Thread-1 (produce) produced: 215
+2025-10-18 11:26:35,672 - INFO - Thread-8 (consume) consumed: 292.70314476753543
+2025-10-18 11:26:35,674 - INFO - Thread-6 (consume) consumed: 983.4461850224054
+2025-10-18 11:26:35,674 - INFO - Thread-9 (consume) consumed: 215
+2025-10-18 11:26:36,173 - INFO - Thread-10 (consume) tried consuming, but queue is empty
+2025-10-18 11:26:36,173 - INFO - Thread-2 (produce) produced: 936
+2025-10-18 11:26:36,173 - INFO - Thread-7 (consume) consumed: 936
+2025-10-18 11:26:36,174 - INFO - Thread-1 (produce) produced: 615
+2025-10-18 11:26:36,174 - INFO - Thread-8 (consume) consumed: 615
+2025-10-18 11:26:36,174 - INFO - Thread-4 (produce) produced: 803.2332362037704
+2025-10-18 11:26:36,174 - INFO - Thread-3 (produce) produced: 42
+2025-10-18 11:26:36,174 - INFO - Thread-6 (consume) consumed: 803.2332362037704
+2025-10-18 11:26:36,175 - INFO - Thread-5 (produce) produced: 61.66191718928049
+2025-10-18 11:26:36,175 - INFO - Thread-9 (consume) consumed: 42
+2025-10-18 11:26:36,677 - INFO - Thread-7 (consume) consumed: 61.66191718928049

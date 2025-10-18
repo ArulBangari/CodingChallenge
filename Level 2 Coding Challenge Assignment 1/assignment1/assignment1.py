@@ -11,8 +11,8 @@ import pandas as pd
 pd.set_option('display.float_format', '{:,.2f}'.format)
 
 def main():
-    print("-----------------------------------------")
-    print("1. Reading the data from the CSV file")
+    print("*************************************************\n")
+    print("1. Reading the data from the CSV file\n")
     csv_location = "./CSVs/customer_shopping_data.csv"
     sda = ShoppingDataAnalyzer(csv_location)
 
@@ -20,17 +20,21 @@ def main():
         print("Error: Passed empty dataframe!")
         return
     
+    print("------------------\n")
+    
     gender_counts = sda.count_population_by_gender()
-    print("2. Population grouped by gender")
-    print("Population grouped by gender:\n")
+    print("2. Population grouped by gender:\n")
     print(gender_counts.to_string())
-    print("\n")
+    print("")
+
+    print("------------------\n")
 
     total_sales_by_gender = sda.total_sales_by_gender()
     print("3.Total sales by gender:\n")
     print(total_sales_by_gender.to_string())
     print("\n")
 
+    print("------------------\n")
 
     most_used_payments, most_used_payment_freq =  sda.most_used_payment_method()
     if len(most_used_payments) > 1:
@@ -38,7 +42,9 @@ def main():
         print(most_used_payments[0:2])
     else:
         print(f"4. There is 1 payment type that is the most used, with frequency of {most_used_payment_freq}. It is {most_used_payments[0]}.")
-    print("\n")
+    print("")
+    
+    print("------------------\n")
 
     days_with_most_sales, max_sales_amount = sda.day_with_most_sales()
     if len(days_with_most_sales) > 1:
@@ -46,6 +52,7 @@ def main():
         print(days_with_most_sales[0:2])
     else:
         print(f"5. The max sales amount is {max_sales_amount}. There is 1 day with the max sales. It is {days_with_most_sales[0]}.")
-        
+    print("")
+    print("*************************************************")
 
 main()
